@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi,👋 My name is Vanitha. This is my Github profile
+- I completed my BE in ECE in the year 2018 from ARM College of Engineering and Technology, Chennai.
+- I am passionate in learning new things.
+- My skillsets are python, SQL, Data Visualization and Machine Learning.
+- I’m looking to collaborate on Data Analytics Project.
+### Link To:
+- Gmail: anjelinjessica1996@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vanitha-d-618b55266/
+- HackerRank: https://www.hackerrank.com/anjelinjessica11
+- Sololearn: https://www.sololearn.com/profile/28144520
 
 <!--
 **vanithavani96/vanithavani96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
