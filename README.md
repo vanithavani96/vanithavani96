@@ -1,7 +1,7 @@
 ### Hi,👋 My name is Vanitha. This is my Github profile
 - I completed my BE in ECE in the year 2018 from ARM College of Engineering and Technology, Chennai.
 - I am passionate in learning new things.
-- My skillsets are python, SQL, Data Visualization and Machine Learning.
+- My skillsets are python, SQL, Data Visualization and Machine Learning,Excel,Excel VBA,SAS.
 - I’m looking to collaborate on Data Analytics Project.
 ### Link To:
 - Gmail: anjelinjessica1996@gmail.com
